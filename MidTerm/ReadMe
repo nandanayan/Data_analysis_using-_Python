@@ -1,0 +1,47 @@
+
+Deleted messages often provide lot of important clues which can bring about an up twist in business downfall cases.
+
+If important messages about the company have been exchanged by the employee to some other parties or competitors then recovering deleted messages can cater culpable evidence. To find out whether there were any messages deleted from Enron Mail data set by a particular user may help us to simply perform Analysis for deep driving any confidential/valuable information shared between the employees or third party vendors. Analysis like >> is there any service level agreement violation discussions in the mail, resources or architectular business ideas shared to other parties? Bidding of the upcoming projects details.
+
+For this We perform three analysis:
+
+1)
+Maximum number of emails deleted by whom? and whats the count of it ?
+
+This Analysis will help us to identify the users with most number of deleted items.
+
+2)
+Most number of mails deleted by above Users are related to which UserAccounts?
+
+We can deep drill the analysis by finding which useraccount related mails are most ofently deleted by an User. This will help us to find that a Particular user is often deleting mails once he receives from the other user. This combination will help us to examine that whether are these two users exchanging any service level agreement violation discussions in the mail.
+
+3)
+Number of mails deleted by each individual? Do they also include internal business mails ----- Eron.com? Or External only?
+
+To strengthen our analysis lets graph the number of mails deleted by each user. Lets seperate the mail list to two channels: one is internal mails other will be external mails
+
+This graph will allow us to compare the results from ANALYSIS 2:
+
+Is the deletion mail frequency bandwidth is similar to all or is any users bandwidth is out of bound.
+
+4)
+Emails Deleted with Sample Business Keywords
+
+There are few sample business keywords like: "solution" "requirement" "rollback" "priority" which will give us an useful information for deep driving any confidential/valuable information shared between the employees or third party vendors. Which will also be a helping hand for the above analysis result set.
+
+Question 2: NYT Analysis
+
+
+
+
+1)
+Analysis 1: Finding most used Category Liners in a timeLine 
+
+Analysis 2: we are finding the most popular category in particular timeframe
+
+Analysis 3: Analysis On Trending Event in that particular TimeFrame : EUROPE
+
+From above analysis I have taken Europe as a case Study!!
+
+Europe Around 2014 Nov's have been in the headliners for a while.
+European Bank Crisis, European Commission, European parliament were one of trending subjects, fromm the journals of the above papers there were few predictions that went right on Soverign Debir Crisis
