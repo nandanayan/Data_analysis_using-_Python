@@ -43,3 +43,35 @@ We have a conclusion that summer is the hit time for majority of crimes in all t
 
 FOr all the years it is clear that crime rates are less in 3.00pm to 7.00pm timestamps.
 If you take in 2006 and 2015, the crime rate at mid night hours has been drastically dropeed down.Which a good sign. there would have been proper actions from running governments.
+
+
+# Data Analysis 2: 
+
+Focusing on causes for crimes with Crime Type, longitude and latitude as parameter considerations. Lets find the total count per month.
+
+![image](https://cloud.githubusercontent.com/assets/25697215/25309515/b4bd47b6-279d-11e7-82a6-3e6ace0cbb8c.png)
+
+From the above findings, lets deep drill how these causes resulting in crimes trending in Police departmental districts.
+
+![image](https://cloud.githubusercontent.com/assets/25697215/25309518/c9b16594-279d-11e7-81c5-6802b6a3fac4.png)
+
+Lets further deep drill the data by finding how these causes that are effecting the crimes are varying acrcoss different years
+
+![image](https://cloud.githubusercontent.com/assets/25697215/25309523/f385c1d0-279d-11e7-9f99-330736a895f3.png)
+
+
+Conclusion: For every crime there is a cause. There are few crime incidents like Theft of vehicle that are constanly taking place in all the time frames and seasons. This analysis will help us to monitor few channels that will help us in reducing the crime rate.
+
+# Data Analysis 3:
+Deeper Analysis on Bulglary Resedential.
+In this case we are taking one Crime type.. Say Bulglary Resedential.
+
+This Graph shows number of Crime Incidents related to Bulglary Resedential for different Years.
+
+![image](https://cloud.githubusercontent.com/assets/25697215/25309638/54fc6fe8-27a0-11e7-9a4a-47f93d9399e1.png)
+
+Now, Lets consider this for different Police districts.
+
+![image](https://cloud.githubusercontent.com/assets/25697215/25309658/b20f7fae-27a0-11e7-89d5-99da932175c3.png)
+
+Here we are able to do analysis one Text_General_code.In this case it is Burglary Resedential. You can compare how these crime trends change for different Dc_Dist codes in different years. It is evident that crimes related to Burglary Resedential are almost constant for different Dc_dist codes and years. There must a proper channel to monitor this crimes. It looks like Crimes related to this are constantly taking place !!
