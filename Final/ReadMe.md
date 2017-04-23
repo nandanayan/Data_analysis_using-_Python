@@ -29,8 +29,7 @@ It is evident that places with police stations the number of crimes have dropped
 # Now, lets find how the crime rates change for each crime type!
 ![image](https://cloud.githubusercontent.com/assets/25697215/25309488/b4206424-279c-11e7-8f48-8b2d5f589870.png)
 
-# 
-Lets deep drill how the crime rate changes each month for every year!!
+# Lets deep drill how the crime rate changes each month for every year!!
 
 ![image](https://cloud.githubusercontent.com/assets/25697215/25309495/da53bc68-279c-11e7-9ae1-8aa95ad1cef1.png)
 
@@ -47,15 +46,15 @@ If you take in 2006 and 2015, the crime rate at mid night hours has been drastic
 
 # Data Analysis 2: 
 
-Focusing on causes for crimes with Crime Type, longitude and latitude as parameter considerations. Lets find the total count per month.
+# Focusing on causes for crimes with Crime Type, longitude and latitude as parameter considerations. Lets find the total count per month.
 
 ![image](https://cloud.githubusercontent.com/assets/25697215/25309515/b4bd47b6-279d-11e7-82a6-3e6ace0cbb8c.png)
 
-From the above findings, lets deep drill how these causes resulting in crimes trending in Police departmental districts.
+# From the above findings, lets deep drill how these causes resulting in crimes trending in Police departmental districts.
 
 ![image](https://cloud.githubusercontent.com/assets/25697215/25309518/c9b16594-279d-11e7-81c5-6802b6a3fac4.png)
 
-Lets further deep drill the data by finding how these causes that are effecting the crimes are varying acrcoss different years
+# Lets further deep drill the data by finding how these causes that are effecting the crimes are varying acrcoss different years
 
 ![image](https://cloud.githubusercontent.com/assets/25697215/25309523/f385c1d0-279d-11e7-9f99-330736a895f3.png)
 
@@ -63,7 +62,9 @@ Lets further deep drill the data by finding how these causes that are effecting 
 Conclusion: For every crime there is a cause. There are few crime incidents like Theft of vehicle that are constanly taking place in all the time frames and seasons. This analysis will help us to monitor few channels that will help us in reducing the crime rate.
 
 # Data Analysis 3:
-Deeper Analysis on Bulglary Resedential.
+
+#  Deeper Analysis on Bulglary Resedential.
+
 In this case we are taking one Crime type.. Say Bulglary Resedential.
 
 This Graph shows number of Crime Incidents related to Bulglary Resedential for different Years.
@@ -111,3 +112,29 @@ lets do analysis on no:of arrests taken place frpm 2012 to 2016!
 Conclusion From the graph above there is clear evidence that there is decrese in crime rate from 2012 to 2017---->as a result there is drop in arrest rate too.
 Another point to be taken note here is there is around 2,00,000 difference in crimes and number of arrests. May be the government would have taken more effective measures in handling crime incidents.
 If we see the plot most crimes happen from May-August----> may be this is because its summer time and people would be on vacations more chances of attacks.
+
+## CONCLUSION:
+1) Crime Rate Vs Arrest Rate:
+
+In this perspective: analysis on chicago gives us the inofrmation that the arrest rate has been dropped down from 2012 to 2017. Evidence that crime rate is also dropping down. There would have been good actions by gov to reach this state.
+
+2) Will season plays a major role in crime incidents?
+ In majority of times number of crimes are more in summer than any other season. If you see year wise the rate of crimes are decreasing though. Vacation time would have been one target area for involving in crime.
+
+3) Will Police Dept District code areas result in less crime?
+
+It is evident that places with police stations the number of crimes have dropped down. But there are few instances the rate also increased.
+This Analysis gives idea about, there are few regions where POlice Patroling/monitoring would have been more effective.
+
+4) For every crime there is cause?
+
+ For every crime there is a cause. There are few crime incidents like Theft of vehicle that are constanly taking place in all the time frames and seasons. This analysis will help us to monitor few channels that will help us in reducing the crime rate.
+
+ 
+
+5) Drop of crime rate?
+From the above graphs it is evident that Drop rate of crime is more in philadelphia compared to Chicago. More safety measures would have been implemented by philadelphia Gov. Apart from few causes effecting crimes, there were drastic drop of count in crime rate giving us evidence that safety measures and early predictions would have been  made by philadelphia Gov. For example summer season crime drop rate.
+
+6) lack of preventive measures?
+
+In chicago there was around 2,00,000 difference between crimes and arrests at one particular time frame. And also there were few red zone areas where probability of crime is high. More monitoring from Police Dept would have given better results.!!
