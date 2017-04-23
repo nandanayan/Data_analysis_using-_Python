@@ -1,0 +1,19 @@
+Please find the below google drive path for the data sets.
+
+
+
+
+As my dataset is aroung 1.5GB, I could not upload on GITHUB!
+
+I have two data sets involved in my analysis.
+
+1) One is Crimes_in_chicago Folder.
+This Folder contains 4 .csv files. These >csv files contain the data of crime incidents that took place in Chicago for different years.
+
+Chicago_Crimes_2001_to_2004----> Crime Incidents from 2001 to 2004
+Chicago_Crimes_2005_to_2007----->Crime Incidents from 2005 to 2007
+Chicago_Crimes_2008_to_2011-----> Crime Incidents from 2008 to 2011
+Chicago_Crimes_2012_to_2017----> Crime Incidents from 2012 to 2017
+
+2) philadelphiacrimedata folder.
+This folder contains one .CSV file which contains all the data of Crimes that happened in philadelphia from 2006 to 2017
