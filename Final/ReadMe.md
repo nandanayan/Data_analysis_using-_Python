@@ -75,3 +75,39 @@ Now, Lets consider this for different Police districts.
 ![image](https://cloud.githubusercontent.com/assets/25697215/25309658/b20f7fae-27a0-11e7-89d5-99da932175c3.png)
 
 Here we are able to do analysis one Text_General_code.In this case it is Burglary Resedential. You can compare how these crime trends change for different Dc_Dist codes in different years. It is evident that crimes related to Burglary Resedential are almost constant for different Dc_dist codes and years. There must a proper channel to monitor this crimes. It looks like Crimes related to this are constantly taking place !!
+
+# Data Analysis 4 and 5:
+# Data Analysis On Crime Incidents Of Chicago:
+
+lets find number of crimes types and count of each of the type.
+top 10 crime incidents in this time frame for chicago!
+![image](https://cloud.githubusercontent.com/assets/25697215/25309697/cc5fd06a-27a1-11e7-8186-0d0e5c006667.png)
+
+find number of incidents that have taken place in a particular location description!
+lets graph red zoned locations where there is a probability of crime rate is very high!
+![image](https://cloud.githubusercontent.com/assets/25697215/25309714/27c98e0a-27a2-11e7-8d77-8fa77dcd190c.png)
+
+lets find monthly crimes that took place from 2012 to 2016 in chicago
+#plot a graph for monthly crime rate findings in time frame 2012 to 2016!
+plotting a heath map for graphical presentations of monthly crimes
+![image](https://cloud.githubusercontent.com/assets/25697215/25309721/530d4d18-27a2-11e7-9d03-e18f85a04a50.png)
+
+from matrix plot we can make 2 conclusions: 2012 and 2013 are highest crime victimed years june and july are highest crime incidents months in all the years
+
+May, June, July and August are highest crime activities months in 2012 and 2013
+#On an average these four months are highest crime incident months from 2012 to 2017!!
+
+lets do analysis on no:of arrests taken place frpm 2012 to 2016!
+![image](https://cloud.githubusercontent.com/assets/25697215/25309723/8131433e-27a2-11e7-8316-13c27ccde324.png)
+
+#from above matrix we can see that arrests were highest from 2012 to 2014. 
+#And there was a trend in decrease number of areests from from 2012 to 2017.
+#Here we have a scope of assumption that crime incidents would have probably dropped down from 2012 to 2017.! Five year period there is drop in crime rate. 
+
+#To support above statements we will visualize the arrest VS crime rate graphs.
+
+![image](https://cloud.githubusercontent.com/assets/25697215/25309725/a0a8635a-27a2-11e7-966a-36d33cea3ac4.png)
+
+Conclusion From the graph above there is clear evidence that there is decrese in crime rate from 2012 to 2017---->as a result there is drop in arrest rate too.
+Another point to be taken note here is there is around 2,00,000 difference in crimes and number of arrests. May be the government would have taken more effective measures in handling crime incidents.
+If we see the plot most crimes happen from May-August----> may be this is because its summer time and people would be on vacations more chances of attacks.
